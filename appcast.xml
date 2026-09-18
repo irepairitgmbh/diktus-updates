@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Diktus Updates</title>
+    <link>https://irepairitgmbh.github.io/diktus-updates/</link>
+    <description>Signierte macOS-Updates für Diktus.</description>
+  </channel>
+</rss>
